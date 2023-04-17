@@ -6,3 +6,5 @@ Calculadora de IMC, utilizando as tecnologias, HTML, CSS e JavaScript, responsiv
 - HTML
 - CSS
 - JavaScript
+
+vite o projeto por aqui (https://matiasgith.github.io/Calculadora-de-IMC/)
